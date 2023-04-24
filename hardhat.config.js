@@ -22,7 +22,6 @@ module.exports = {
   networks: {
     hardhat: {
       chainId: 31337,
-      // gasPrice: 130000000000,
     },
     sepolia: {
       url: SEPOLIA_RPC_URL,
